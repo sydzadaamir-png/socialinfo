@@ -1,5 +1,5 @@
 [build]
-  publish = "Public"
+  publish = "public"
 
 [[edge_functions]]
   function = "filter"
